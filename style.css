@@ -143,3 +143,9 @@ a.info-box{
     margin-top: 12px;
     padding: 10px;
 }
+#info-box-full img{
+    width: 100%;
+}
+#info-box-full h3{
+    text-align: center;
+}
